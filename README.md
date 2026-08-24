@@ -1,4 +1,5 @@
 # 555-Timer-PCB
+![3D Render of 555 PCB](final_pcb.PNG)
 
 A custom 2-layer printed circuit board layout for an NE555 timer circuit, designed using Cadence OrCAD / Allegro PCB Designer. This repository includes the source board files, custom padstacks, and CAM350-verified Gerber and Drill files ready for manufacturing.
 
