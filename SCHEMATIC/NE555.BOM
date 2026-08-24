@@ -1,0 +1,23 @@
+  Revised: Saturday, August 22, 2026
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials         August 24,2026      14:44:47	Page1
+
+Item	Quantity	Reference	Mounting_Status	Value	Specification	Operating_Temperature	Package	Mfg	Mfg_Part	Vendor	Vendor_Part
+______________________________________________
+
+1	1	C1		10uF	CAP ALUM 10UF 20% 50V RADIAL TH	-40°C ~ 105°C-	Through Hole	Würth Elektronik	860010672009	Digikey	860010672009
+2	1	C2		0.01uF	CAP CER 10000PF 50V X7R RADIAL	-40°C ~ 105°C-	Through Hole	KEMET	C315C103K5R5TA	Digikey	C315C103K5R5TA
+3	1	D1		LED	LED RED DIFFUSED 5MM ROUND T/H	-40°C ~ 105°C-	Through Hole	Würth Elektronik	151051RS11000	Digikey	151051RS11000
+4	4	JH1,JH2,JH3,JH4		HEADER 1	CONN HEADER VERT 1POS	-40°C ~ 105°C-	Through Hole	Würth Elektronik	61300111121	-	732-5314-ND
+5	2	J1,J2		HEADER 1	TERM BLOCK HDR 2POS 5MM	-40°C ~ 105°C-	Through Hole	Phoenix Contact	1933189	Digikey	277-1645-ND
+6	1	R1		10k	RES 1K OHM 5% 1/4W AXIAL	-40°C ~ 105°C-	Through Hole	Stackpole Electronics Inc	CF14JT1K00	Digikey	CF14JT1K00
+7	1	R2		100k	RES 100K OHM 5% 1/4W AXIAL	-40°C ~ 105°C-	Through Hole	TE Connectivity Passive Product	CFR16J100K	Digikey	CFR16J100K
+8	1	R3		330	RES 330 OHM 1W 5% AXIAL	-40°C ~ 105°C-	Through Hole	Vishay Beyschlag/Draloric/BC Components	VR68000003305JAC00	Digikey	VR68000003305JAC00
+9	1	U1		NE555	IC OSC SINGLE TIMER 100KHZ 8-DIP	-40°C ~ 105°C-	8-DIP (0.300", 7.62mm)	Texas Instruments	NE555P	Digikey	296-NE555P-ND
